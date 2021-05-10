@@ -1,16 +1,50 @@
-### Hi there 👋
+## Hello, I'm [Fachri](https://instagram.com/Itsfchri15_) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="29px"> :sunglasses:
 
-<!--
-**FachriAs/FachriAs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/9C1nyePnovqlpEYFMD/source.gif" />
 
-Here are some ideas to get you started:
+- ðŸŒ± I Can Codes In :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - HTML
+
+  - CSS
+
+  - JavaScript
+
+  - Python
+
+  - Java/XML
+
+  - C# [ Unity ]
+
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+### ðŸ“« Follow Me On
+
+<a href="https://youtube.com/c/xFachriOFFICIAL" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+
+<a href="https://www.instagram.com/Itsfchri15_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+<a href="https://wa.me/6289643739077" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=FachriAs&show_icons=true&theme=radical)
+
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=FachriAs&layout=compact&theme=nightowl)
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=FachriAs&repo=personal-api&theme=dark)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
