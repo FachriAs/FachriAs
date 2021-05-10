@@ -1,8 +1,8 @@
 ## Hello, I'm [Fachri](https://instagram.com/Itsfchri15_) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="29px"> :sunglasses:
 
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/9C1nyePnovqlpEYFMD/source.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/9C1nyePnovqlpEYFMD/source.gif" />
 
-:🙏± I Can Codes In :
+### 🙏± I Can Codes In :
 
   - HTML
 
@@ -14,7 +14,7 @@
 
   - Java/XML
 
-  - C# [ Unity ]
+
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
