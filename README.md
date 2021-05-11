@@ -18,7 +18,7 @@
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-### 🙏 Follow Me On
+### Follow Me On
 
 <a href="https://youtube.com/c/xFachriOFFICIAL" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 
