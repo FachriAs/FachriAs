@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/9C1nyePnovqlpEYFMD/source.gif" />
 
-### 🙏± I Can Codes In:
+### ± I Can Codes In:
 
   - HTML
 
