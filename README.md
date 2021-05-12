@@ -28,7 +28,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=FachriAs&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDTUTORIAL&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FachriAs&layout=compact)
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=FachriAs&repo=personal-api&theme=dark)
 
